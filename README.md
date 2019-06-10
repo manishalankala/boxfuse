@@ -1,6 +1,13 @@
-# boxfuse
+# Boxfuse
 
-Currently under progress
+
+
+# Currently under progress i need to do 
+
+
+
+
+
 
 
 To produce a deliverable, we need to build it from source. This involves compiling sources, processing and copying resources, and probably a few more steps.
